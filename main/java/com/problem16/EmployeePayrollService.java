@@ -12,7 +12,7 @@ public class EmployeePayrollService {
 	}
 	
 	private void writeEmployeePayrollData() {
-		System.out.println("\nWriting Employee Payroll Roaster to Console\n " + employeePayrollList);
+		System.out.println("\nWriting Employee Payroll Data\n " + employeePayrollList);
 	}
 
 	private void readEmployeePayrollData(Scanner consoleInputReader) {
